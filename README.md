@@ -55,5 +55,17 @@ src/
 ├── utils/           # Helper functions
 └── functions-cloud/ # Firebase & Twilio setup
 ```
-```
 
+## 📸 Screenshots
+
+### Enter number phone
+![Number Phone Page](./screenshots/step_1.jpg)
+
+### Firebase OTP
+![Verify OTP Page](./screenshots/step_2.jpg)
+
+### Verify OTP
+![Verify OTP Page](./screenshots/step_2.jpg)
+
+### Search github
+![Verify OTP Page](./screenshots/step_3.jpg)
